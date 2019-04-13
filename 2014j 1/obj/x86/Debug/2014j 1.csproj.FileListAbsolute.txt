@@ -1,0 +1,13 @@
+C:\Users\rad\Desktop\Rad Rares\2014j 1\2014j 1\bin\Debug\2014j 1.exe
+C:\Users\rad\Desktop\Rad Rares\2014j 1\2014j 1\bin\Debug\2014j 1.pdb
+C:\Users\rad\Desktop\Rad Rares\2014j 1\2014j 1\obj\x86\Debug\_2014j_1.Form1.resources
+C:\Users\rad\Desktop\Rad Rares\2014j 1\2014j 1\obj\x86\Debug\_2014j_1.Properties.Resources.resources
+C:\Users\rad\Desktop\Rad Rares\2014j 1\2014j 1\obj\x86\Debug\2014j 1.csproj.GenerateResource.Cache
+C:\Users\rad\Desktop\Rad Rares\2014j 1\2014j 1\obj\x86\Debug\2014j 1.exe
+C:\Users\rad\Desktop\Rad Rares\2014j 1\2014j 1\obj\x86\Debug\2014j 1.pdb
+C:\Users\rad\Desktop\Rad Rares\2014j 1\2014j 1\bin\Debug\2014j 1.exe.config
+C:\Users\rad\Desktop\Rad Rares\2014j 1\2014j 1\bin\Debug\Bursa.mdf
+C:\Users\rad\Desktop\Rad Rares\2014j 1\2014j 1\bin\Debug\Bursa_log.ldf
+C:\Users\rad\Desktop\Rad Rares\2014j 1\2014j 1\obj\x86\Debug\_2014j_1.Form2.resources
+C:\Users\rad\Desktop\Rad Rares\2014j 1\2014j 1\obj\x86\Debug\2014j 1.csprojResolveAssemblyReference.cache
+C:\Users\rad\Desktop\Rad Rares\2014j 1\2014j 1\obj\x86\Debug\_2014j_1.Form3.resources
